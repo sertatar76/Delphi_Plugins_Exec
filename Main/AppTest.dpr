@@ -1,4 +1,4 @@
-program Test_MKO2;
+program AppTest;
 
 uses
   Vcl.Forms,
